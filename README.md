@@ -1,8 +1,8 @@
 qb-adminmenu-edit / server / server.lua Üzerinden "WEBHOOK GİR DOSTUMS" ' lara webhook girerek kullanabilirsiniz iyi kullanımlar.
 https://discord.gg/zdevelopment 
 https://discord.gg/zdevstore
-![Ekran görüntüsü 2024-08-07 085925](https://github.com/user-attachments/assets/315497e7-1093-4f8f-9c4e-effd8a8ba580)![Ekran görüntüsü 2024-08-07 085929](https://github.com/user-attachments/assets/54714ddf-7386-4786-9d41-1d5ea4a2b20b)![Ekran görüntüsü 2024-08-07 085940](https://github.com/user-attachments/assets/a4079ff7-bb77-45f1-a55e-b47528c31766)
-![Ekran görüntüsü 2024-08-07 085936](https://github.com/user-attachments/assets/ca7edfb9-161c-48f5-b3ce-1573add3994d)
+![Ekran görüntüsü 2024-08-07 085925](https://github.com/user-attachments/assets/315497e7-1093-4f8f-9c4e-effd8a8ba580)![Ekran görüntüsü 2024-08-07 085929](https://github.com/user-attachments/assets/54714ddf-7386-4786-9d41-1d5ea4a2b20b)
+![Ekran görüntüsü 2024-08-07 085936](https://github.com/user-attachments/assets/ca7edfb9-161c-48f5-b3ce-1573add3994d)![Ekran görüntüsü 2024-08-07 085940](https://github.com/user-attachments/assets/a4079ff7-bb77-45f1-a55e-b47528c31766)
 ![Ekran görüntüsü 2024-08-07 085950](https://github.com/user-attachments/assets/cdcbed5b-4462-4d19-9674-4afa7b9eb665)![Ekran görüntüsü 2024-08-07 085955](https://github.com/user-attachments/assets/7879e3b1-2c33-40b4-b508-f4d516ae023d)
 ![Ekran görüntüsü 2024-08-07 090000](https://github.com/user-attachments/assets/4cbd6217-b34a-424f-9bfa-95d841266c47)![Ekran görüntüsü 2024-08-07 090004](https://github.com/user-attachments/assets/30e22286-e234-4e04-9fe3-7239d294e109)
 ![Ekran görüntüsü 2024-08-07 090009](https://github.com/user-attachments/assets/5f785682-689f-476e-a38f-b6c6ddd92492)![Ekran görüntüsü 2024-08-07 090013](https://github.com/user-attachments/assets/01f17522-97ec-49b3-9bbd-e0ff0b93e290)
